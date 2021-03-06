@@ -1,0 +1,7 @@
+/venv/
+/TUSIMPLE/gif_output/
+/TUSIMPLE/test_clips/
+/TUSIMPLE/test_set/
+/TUSIMPLE/training/
+/TUSIMPLE/txt_for_local/
+/TUSIMPLE/train_set/spark_data/
