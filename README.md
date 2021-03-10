@@ -119,12 +119,14 @@ Use the ``ECBM6040-Project/Notebook-experiment/Generate Video and show the resul
 ![gif show](img/result_show.gif)
 ___
 ## Reference
-[1] Neven, D., De Brabandere, B., Georgoulis, S., Proesmans, M. and Van Gool, L., 2018, June. Towards end-to-end lane 
+[1]
+
+[2] Neven, D., De Brabandere, B., Georgoulis, S., Proesmans, M. and Van Gool, L., 2018, June. Towards end-to-end lane 
 detection: an instance segmentation approach. In 2018 IEEE intelligent vehicles symposium (IV) (pp. 286-291). IEEE. 
 https://arxiv.org/abs/1802.05591
 
-[2] LaneNet TensorFlow project https://github.com/MaybeShewill-CV/lanenet-lane-detection
+[3] LaneNet TensorFlow project https://github.com/MaybeShewill-CV/lanenet-lane-detection
 
-[3] TuSimple Dataset https://github.com/TuSimple/tusimple-benchmark
+[4] TuSimple Dataset https://github.com/TuSimple/tusimple-benchmark
 
-[4] E-Net Project https://github.com/davidtvs/PyTorch-ENet
+[5] E-Net Project https://github.com/davidtvs/PyTorch-ENet
